@@ -1,0 +1,6 @@
+If you a JavaScript function that takes 10 seconds to complete, what would you do to prevent this from blocking the user interaction with the web page while it is running?
+How would you implement a table of securities that displays real time prices for each security?
+How do impliment a live streming ?
+How do impliment a responsible tabel ?
+If you needed to display a chart within a web page, but weren't able to use an existing charting library, how would you implement it?
+https://dzone.com/articles/angular-2-gotchas-and-interview-questions
